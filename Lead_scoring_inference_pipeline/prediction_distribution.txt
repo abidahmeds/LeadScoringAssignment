@@ -1,0 +1,2 @@
+Prediction ratio for the date Mon Oct 24 12:26:03 2022 for Ones % 59.97 and Zeroes % 40.03
+Prediction ratio for the date Mon Oct 24 12:26:09 2022 for Ones % 59.97 and Zeroes % 40.03
